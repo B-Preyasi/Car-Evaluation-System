@@ -5,6 +5,8 @@ A Machine Learning web application that predicts the acceptability of a car base
 The project is built using **Python**, **Scikit-learn**, and **Streamlit**, and uses a **Random Forest Classifier** trained on the **UCI Car Evaluation Dataset**.
 
 ---
+## 🌐 Live Demo
+https://car-evaluation-system-q639wuvp3rrv7wgikee3da.streamlit.app/
 
 ## 📌 Features
 
