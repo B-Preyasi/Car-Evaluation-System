@@ -20,7 +20,8 @@ The project is built using **Python**, **Scikit-learn**, and **Streamlit**, and 
 
 ## 📷 Application Preview
 
-*(Add screenshots here after deployment)*
+<img width="1373" height="806" alt="Screenshot 2026-06-27 at 9 34 29 PM" src="https://github.com/user-attachments/assets/f861743a-b0ba-40df-b756-af4afd896d00" />
+
 
 ---
 
